@@ -4,7 +4,8 @@
 ### startup
 
 ``` bash
-npm i
+$ npm i
+$ npm run dev
 ```
 
 ### usage
